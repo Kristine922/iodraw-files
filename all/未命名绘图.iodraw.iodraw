@@ -40,7 +40,7 @@
         <mxCell id="fjvndnNYf07Su00SpCb2-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;定位区域是否&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;满足覆盖条件&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBorderColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="590" y="550" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fjvndnNYf07Su00SpCb2-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fjvndnNYf07Su00SpCb2-17" value="是&lt;div&gt;有效覆盖&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="640" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fjvndnNYf07Su00SpCb2-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
