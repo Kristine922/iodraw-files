@@ -19,7 +19,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fjvndnNYf07Su00SpCb2-5" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;GDOP 候选区 C&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;交会角接近 90°&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;扇形角度 ±35°, 1000-1500 m&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;labelBorderColor=none;" parent="1" vertex="1">
-          <mxGeometry x="609" y="262" width="200" height="100" as="geometry" />
+          <mxGeometry x="609" y="280" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SAbcgCKK0Dvnm5w3V0Gf-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjvndnNYf07Su00SpCb2-7" target="fjvndnNYf07Su00SpCb2-9">
           <mxGeometry relative="1" as="geometry" />
